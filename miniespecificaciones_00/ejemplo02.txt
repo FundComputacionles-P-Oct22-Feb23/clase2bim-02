@@ -1,0 +1,13 @@
+//
+1. Inicio
+2. num, i[0, n]
+3. operacion, i[0, n]
+4. tabla, i[0, n]
+5.
+3. Para(tabla<--1, num<=3, 1) haga
+4.  Escribir "La tabla del " + tabla
+3.  Para(num<--1, num<=10, 1) haga
+5.     operacion <-- tabla * numero
+5.     Escribir tabla + " * " + numero + " = " + operacion
+6. Fin_Para
+7. Fin
